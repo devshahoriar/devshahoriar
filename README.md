@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Design and Development](./banner.jpg)
+![Design and Development](./banner.png)
 
 # Shahoriar Ahmed Shuvo
 I'm Shahoriar Ahmed Shuvo from Bangladesh, Rajshahi, and I'm a web designer & front‑end developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.
