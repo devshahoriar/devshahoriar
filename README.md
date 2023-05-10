@@ -12,7 +12,7 @@ I'm Shahoriar Ahmed Shuvo from Bangladesh, Rajshahi, and I'm a web designer & fr
 * 💻 HTML, CSS, JS
 
 # Thank you.
-![Design and Development](./happy.gif)
+<!-- ![Design and Development](./happy.gif) -->
 
 <!--
 **devshahoriar/devshahoriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
