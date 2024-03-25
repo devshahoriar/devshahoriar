@@ -11,14 +11,21 @@ I'm Shahoriar Ahmed Shuvo from Bangladesh, Rajshahi, and I'm a web designer & fr
 * 👨‍💻 Node js
 * 💻 HTML, CSS, JS
 
+## 📈 Stats
+
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devshahoriar&show_icons=true&hide_border=true&theme=radical&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devshahoriar&hide_border=true&theme=radical" />
+</p>
+
 ## 🔝 Most used languages
 
 <p align="">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshahoriar&layout=compact&hide_border=true&theme=radical" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshahoriar&layout=pie&hide_border=true&theme=radical&langs_count=10" />
 </p>
 
 # Thank you.
-<!-- ![Design and Development](./happy.gif) -->
+![Design and Development](./happy.gif)
 
 <!--
 **devshahoriar/devshahoriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
