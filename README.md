@@ -11,6 +11,12 @@ I'm Shahoriar Ahmed Shuvo from Bangladesh, Rajshahi, and I'm a web designer & fr
 * 👨‍💻 Node js
 * 💻 HTML, CSS, JS
 
+## 🔝 Most used languages
+
+<p align="center">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravbiswas238&layout=compact&hide_border=true&theme=radical" />
+</p>
+
 # Thank you.
 <!-- ![Design and Development](./happy.gif) -->
 
