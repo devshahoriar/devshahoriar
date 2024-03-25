@@ -6,15 +6,19 @@
 
 <p style="font-size: 20px">I'm a <b>web developer</b> & <b>designer</b> focused on crafting clean & user‑friendly experiences, I am passionate 🚀 about building excellent 🔥 software that improves the lives of those around me.👀</p>
 
+- 🔭 I’m currently looking for a job 
+- 🌱 I’m currently learning go lang 
+- 💬 Ask me about Web Development
+
 ## ✉️ Reach out to me
 
-<p align="center">
+<div style="display: flex; gap: 5px; justify-content: center;">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Messenger-blue?style=for-the-badge&logo=messenger&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Linkdin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
-</p>
 
 ## ⚡ Tech Stack
 
@@ -70,7 +74,7 @@
 ## 🔝 Most used languages
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshahoriar&layout=pie&hide_border=true&theme=radical&langs_count=10" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshahoriar&layout=compact&hide_border=true&theme=radical&langs_count=10" />
 </p>
 
 # Thank you.
