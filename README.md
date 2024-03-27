@@ -13,10 +13,22 @@
 ## ✉️ Reach out to me
 
 <div style="display: flex; gap: 5px; justify-content: center;">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Messenger-blue?style=for-the-badge&logo=messenger&logoColor=white" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Linkdin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://me.m/devshahorair" target="_blank">
+  <img src="https://img.shields.io/badge/Messenger-blue?style=for-the-badge&logo=messenger&logoColor=white" />
+</a>
+
+<a href="https://wa.me/8801777596337" target="_blank">
+  <img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="mailto:shuvo1556@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/devshahoriar/" target="_blank">
+  <img src="https://img.shields.io/badge/Linkdin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 
