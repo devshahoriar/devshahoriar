@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning go lang 
 - 💬 Ask me about Web Development
 
+<br>
+
 ## ✉️ Reach out to me
 
 <div style="display: flex; gap: 5px; justify-content: center;">
@@ -31,6 +33,7 @@
 
 </div>
 
+<br>
 
 ## ⚡ Tech Stack
 
@@ -43,6 +46,8 @@
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </div>
+
+
 
 ### 🧩 Libraries & Framework
 
@@ -79,11 +84,15 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows](https://img.shields.io/badge/linux(WSL)-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
+<br>
+
 ## 📈 Stats
 
 <p align="center">
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devshahoriar&show_icons=true&hide_border=true&theme=radical&rank_icon=github" />
 </p>
+
+<br>
 
 ## 🔝 Most used languages
 
@@ -92,7 +101,8 @@
 </p>
 
 # Thank you.
-
+<br>
+<br>
 <p align="center">
   <img alt="welcome" src="./happy.gif"/>
 </p>
