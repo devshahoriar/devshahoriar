@@ -4,17 +4,17 @@
 
 # Shahoriar Ahmed Shuvo
 
-<p style="font-size: 20px">I'm a <b>web developer</b> & <b>designer</b> focused on crafting clean & user‑friendly experiences, I am passionate 🚀 about building excellent 🔥 software that improves the lives of those around me.👀</p>
+<p style="font-size: 20px">I'm a <b>full stack web developer</b> & <b>designer</b> focused on crafting clean & user‑friendly experiences, I am passionate 🚀 about building excellent 🔥 software that improves the lives of those around me.👀</p>
 
-- 🔭 I’m currently looking for a job 
-- 🌱 I’m currently learning go lang 
+- 🔭 I’m currently looking for a job
+- 🌱 I’m currently learning go lang and vectorDb
 - 💬 Ask me about Web Development
 
 <br>
 
 ## ✉️ Reach out to me
 
-<div style="display: flex; gap: 5px; justify-content: center;">
+<div style="display: flex; gap: 5px">
 
 <a href="https://me.m/devshahorair" target="_blank">
   <img src="https://img.shields.io/badge/Messenger🔗-blue?style=for-the-badge&logo=messenger&logoColor=white" />
@@ -46,8 +46,6 @@
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </div>
-
-
 
 ### 🧩 Libraries & Framework
 
@@ -82,27 +80,24 @@
 ### 💻 Workspace
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows](https://img.shields.io/badge/linux(WSL)-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](<https://img.shields.io/badge/linux(WSL)-FCC624?style=for-the-badge&logo=linux&logoColor=white>)
 
 <br>
 
-## 📈 Stats
+## 📈 Stats & 🔝 Most used languages
 
-<p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devshahoriar&show_icons=true&hide_border=true&theme=radical&rank_icon=github" />
-</p>
+<div style="display: flex; gap: 5px;">
 
-<br>
+ <img  src="https://github-readme-stats.vercel.app/api?username=devshahoriar&show_icons=true&hide_border=true&theme=radical&rank_icon=github" />
 
-## 🔝 Most used languages
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshahoriar&layout=compact&hide_border=true&theme=radical&langs_count=10" />
 
-<p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshahoriar&layout=compact&hide_border=true&theme=radical&langs_count=10" />
-</p>
+</div>
+<br/>
+<br/>
+<br/>
 
 # Thank you.
+
 <br>
-<br>
-<p align="center">
-  <img alt="welcome" src="./happy.gif"/>
-</p>
+<img alt="welcome" src="./happy.gif"/>
