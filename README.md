@@ -3,15 +3,8 @@
 ![Design and Development](./banner.png)
 
 
-<div id="toc"> 
-  <ul style="list-style: none;">
-    <summary>
-      <h1 style="font-size: 40px">Shahoriar Ahmed Shuvo</h1>
-    </summary>
-  </ul>
-</div>
-<a href="#">
-<img  height=1 width=9000 src="https://shorturl.at/A6CaJ"></a>
+
+# Shahoriar Ahmed Shuvo</h1>
 
 <br>
 <a href="#">
@@ -23,6 +16,9 @@
 - 🌱 I’m currently learning go lang and vectorDb
 - 💬 Ask me about Web Development
 
+<a href="#">
+  <img  height=1 width=9000 src="https://shorturl.at/A6CaJ">
+</a>
 <br>
 
 ## ✉️ Reach out to me
@@ -112,7 +108,6 @@
 
 # Thank you.
 
-<br>
 <img alt="welcome" src="./happy.gif"/>
 <a href="#">
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
