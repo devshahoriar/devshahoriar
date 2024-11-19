@@ -2,7 +2,11 @@
 
 ![Design and Development](./banner.png)
 
-# Shahoriar Ahmed Shuvo
+<p style="font-size: 40px"><b>Shahoriar Ahmed Shuvo</b></p>
+<img style="margin-top: -60px" height=1 width=9000 src="https://shorturl.at/A6CaJ">
+
+<br>
+<img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/>
 
 <p style="font-size: 20px">I'm a <b>full stack web developer</b> & <b>designer</b> focused on crafting clean & user‑friendly experiences, I am passionate 🚀 about building excellent 🔥 software that improves the lives of those around me.👀</p>
 
@@ -101,3 +105,5 @@
 
 <br>
 <img alt="welcome" src="./happy.gif"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
